@@ -1,0 +1,9 @@
+E:\Source\Repos\CSharpDlaEmilki\Notatnik.NET\bin\Debug\Notatnik.NET.exe.config
+E:\Source\Repos\CSharpDlaEmilki\Notatnik.NET\bin\Debug\Notatnik.NET.exe
+E:\Source\Repos\CSharpDlaEmilki\Notatnik.NET\bin\Debug\Notatnik.NET.pdb
+E:\Source\Repos\CSharpDlaEmilki\Notatnik.NET\obj\Debug\Notatnik.NET.csprojAssemblyReference.cache
+E:\Source\Repos\CSharpDlaEmilki\Notatnik.NET\obj\Debug\Notatnik.NET.Form1.resources
+E:\Source\Repos\CSharpDlaEmilki\Notatnik.NET\obj\Debug\Notatnik.NET.Properties.Resources.resources
+E:\Source\Repos\CSharpDlaEmilki\Notatnik.NET\obj\Debug\Notatnik.NET.csproj.GenerateResource.cache
+E:\Source\Repos\CSharpDlaEmilki\Notatnik.NET\obj\Debug\Notatnik.NET.exe
+E:\Source\Repos\CSharpDlaEmilki\Notatnik.NET\obj\Debug\Notatnik.NET.pdb
